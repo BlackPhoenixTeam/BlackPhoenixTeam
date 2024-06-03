@@ -30,6 +30,10 @@
 
 ###
 
+<img align="right" height="150" src="https://64.media.tumblr.com/c8186420094a206fac9f9a74602dc35c/9167ff6bdd0756ef-91/s500x750/0629235f807fb8590e3743eb2dc43fe9ae75c623.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
@@ -39,15 +43,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BlackPhoenixTeam/count.svg?"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/c8186420094a206fac9f9a74602dc35c/9167ff6bdd0756ef-91/s500x750/0629235f807fb8590e3743eb2dc43fe9ae75c623.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/BlackPhoenixTeam/BlackPhoenixTeam/output/snake.svg" alt="Snake animation" />
 
